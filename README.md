@@ -17,9 +17,8 @@
 ---
 
 ## 📸 Скриншоты
-<img src="[https://github.com/rauanium/IOS-homeworks/assets/3612493/ee1f90ce-d71f-40c6-b463-9701920195ed](https://github.com/user-attachments/assets/5bdde221-68cb-47aa-b68c-bb0dd573ee44)" width="231" height="500">
 
-> Скриншоты находятся в папке `/screenshots/`. Добавьте свои изображения, если еще не добавлены.
+<img width="231" height="500" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 18 45 36" src="https://github.com/user-attachments/assets/a60eb5ec-6678-4385-97a7-8b269c71e919" />
 
 ---
 
@@ -30,7 +29,8 @@
 - CoreData (оффлайн-режим)
 - Alamofire (работа с сетью)
 - JSONPlaceholder API (в качестве мок-сервиса)
-- Auto Layout + programmatic UI
+- Для картинок Picsum
+- Auto Layout
 - Pull to Refresh
 - Кеширование данных
 - NavigationController
@@ -42,3 +42,9 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone git@github.com:rauanium/PatresInternship.git
+2. Откройте .xcodeproj файл в Xcode:
+   cd PatresInternship
+   open PatresInternship.xcodeproj
+3. Убедитесь, что выбран симулятор или устройство.
+4. Нажмите Cmd + R для запуска приложения.
+
